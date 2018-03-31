@@ -27,6 +27,11 @@ namespace SocketClient
         {
             InitializeComponent();
         }
+        
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
 
         //toolStripButton1 -- Open Connection
         private void toolStripButton1_Click(object sender, EventArgs e)
