@@ -25,7 +25,6 @@ namespace SocketClient
 
         public Form1()
         {
-            //Load form window
             InitializeComponent();
         }
 
