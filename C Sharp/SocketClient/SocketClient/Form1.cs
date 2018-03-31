@@ -14,15 +14,17 @@ namespace SocketClient
 {
     public partial class Form1 : Form
     {
-        int port;
-        string message;
-        int byteCount;
-        NetworkStream stream;
-        byte[] sendData;
-        TcpClient client;
+        // Main Variables
+        int port; //Port number of server
+        string message; //Message to send
+        int byteCount; //Raw bytes to send
+        NetworkStream stream; //Link stream
+        byte[] sendData; //Raw data to send
+        TcpClient client; //TCP client variable
 
         public Form1()
         {
+            //Load form window
             InitializeComponent();
         }
 
@@ -33,11 +35,13 @@ namespace SocketClient
 
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
+            //Convert port number to text with error handling 
             if(!int.TryParse(textBox1.Text, out port))
             {
                 MessageBox.Show("Port number not valied");
                 listBox1.Items.Add("Port number invalied");
             }
+            
             try
             {
                 client = new TcpClient(textBox3.Text, port);
