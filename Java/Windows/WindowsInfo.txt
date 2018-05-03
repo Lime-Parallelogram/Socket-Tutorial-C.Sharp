@@ -1,0 +1,4 @@
+Info:
+Language: Java
+Editor: Eclipse
+Function: One-way comunication with sockets
