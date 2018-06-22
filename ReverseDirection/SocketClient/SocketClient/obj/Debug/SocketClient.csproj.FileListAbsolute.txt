@@ -1,0 +1,10 @@
+C:\Users\will\OneDrive\Lime Code\Code Scripts\C#\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\will\OneDrive\Lime Code\Code Scripts\C#\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\will\OneDrive\Lime Code\Code Scripts\C#\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\will\OneDrive\Lime Code\Code Scripts\C#\SocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\will\OneDrive\Lime Code\Code Scripts\C#\SocketClient\SocketClient\obj\Debug\SocketClient.Form1.resources
+C:\Users\will\OneDrive\Lime Code\Code Scripts\C#\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\will\OneDrive\Lime Code\Code Scripts\C#\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.Cache
+C:\Users\will\OneDrive\Lime Code\Code Scripts\C#\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\will\OneDrive\Lime Code\Code Scripts\C#\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\will\OneDrive\Lime Code\Code Scripts\C#\SocketClient\SocketClient\bin\Debug\SocketServer.exe.config
